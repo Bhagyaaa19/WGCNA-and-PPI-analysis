@@ -1,7 +1,7 @@
 # WGCNA-and-PPI-analysis
 This repository contains the work from my undergraduate research project titled “Comparative analysis of protein–protein interaction network modules responsible for C3 and C4 leaf development: A Systems Biology Approach.”
 
-The intra species study applied a systems biology framework to transcriptomic data from maize foliar leaves (C4, Kranz anatomy) and husk leaves (C3, non-Kranz anatomy). Co-expression analysis was performed to identify gene modules associated with specific developmental stage of each leaf type. These modules were then integrated with protein–protein interaction (PPI) networks to uncover hub proteins that may play key roles in the development of Kranz anatomy, a defining feature of C4 photosynthesis.
+The intra species study applied a systems biology framework to transcriptomic data from maize foliar leaves (C4, Kranz anatomy) and husk leaves (C3, non-Kranz anatomy). Co-expression analysis was performed to identify gene modules associated with specific developmental stages of each leaf type. These modules were then integrated with protein–protein interaction (PPI) networks to uncover hub proteins that may play key roles in the development of Kranz anatomy, a defining feature of C4 photosynthesis.
 
 The repository includes:
 
